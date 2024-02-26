@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Full Stack Developer with experience in Javascript, React + Redux, Node, PostgresSQL, and more. Develop custom web apps for clients on Upwork and for local businesses. I help businesses grow to the next level through effective use of technology and automation.
+Full Stack Developer with experience in Javascript, React + Redux, Node, PostgresSQL, GCP, Typescript and more. Develop custom web apps for clients on Upwork and for local businesses. I help businesses grow to the next level through effective use of technology and automation.
 
 * 🌍  I'm based in Alaska
 
